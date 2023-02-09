@@ -1,2 +1,1 @@
-# Practica-Inicial
-Repasando las bases
+Prueba clonacion repo de github a mi maquina local.
